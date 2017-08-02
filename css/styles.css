@@ -8,6 +8,8 @@ body {
   color: red;
   padding-right: 15px;
   padding-left: 15px;
+  border: 4px solid blue;
+  margin: 10px 50px;
 }
 .sidebar li {
   font-size: 25px;
