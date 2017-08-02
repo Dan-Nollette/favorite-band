@@ -1,0 +1,27 @@
+body {
+  background-color: red;
+}
+.sidebar {
+  text-align: center;
+  float: left;
+  background-color: black;
+  color: red;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.sidebar li {
+  font-size: 25px;
+  padding-top: 30px;
+}
+
+img {
+  width: 300px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.images {
+    float: right;
+}
